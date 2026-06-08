@@ -66,7 +66,7 @@ return (
 
         {/* WhatsApp */}
         <a
-        href="https://wa.me/6281234567890"
+        href="https://wa.me/+62-8953-8016-5688"
         target="_blank"
         rel="noopener noreferrer"
         className="
